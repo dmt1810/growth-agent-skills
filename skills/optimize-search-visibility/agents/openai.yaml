@@ -1,0 +1,4 @@
+interface:
+  display_name: "Optimize Search Visibility"
+  short_description: "Improve discoverability across search surfaces"
+  default_prompt: "Use $optimize-search-visibility to audit and improve organic visibility across traditional and AI search."
