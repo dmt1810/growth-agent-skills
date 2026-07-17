@@ -1,0 +1,4 @@
+interface:
+  display_name: "Analyze Growth Performance"
+  short_description: "Analyze metrics and deliver decision-ready reports"
+  default_prompt: "Use $analyze-growth-performance to analyze growth performance and produce an executive decision report."
