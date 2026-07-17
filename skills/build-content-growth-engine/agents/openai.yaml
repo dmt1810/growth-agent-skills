@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Content Growth Engine"
+  short_description: "Build a repeatable content and copy system"
+  default_prompt: "Use $build-content-growth-engine to design a measurable content system and produce channel-ready copy."
