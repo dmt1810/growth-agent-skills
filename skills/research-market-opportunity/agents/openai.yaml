@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Market Opportunity"
+  short_description: "Find evidence-backed market opportunities"
+  default_prompt: "Use $research-market-opportunity to investigate a market and identify evidence-backed opportunities."
